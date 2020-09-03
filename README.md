@@ -24,7 +24,7 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true&theme=radical" alt="shamimrahman" /></p>
 
 <a href="https://github.com/shamimrahman/Face-Mask-detector-using-Deep-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shamimrahman&theme=radical&repo=Face-Mask-detector-using-Deep-Learning" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shamimrahman&theme=radical&repo=Face-Mask-detector-using-Deep-Learning" />
 </a>
 <br></br>
 <p align="center">
