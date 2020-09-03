@@ -17,7 +17,7 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
                                                                                                           
  <br></br>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimrahman&layout=compact&hide=html" alt="shamimrahman" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimrahman&layout=compact&hide=html" alt="shamimrahman" show_icons=true& theme=radical /></p>
 
 <br></br>
 
