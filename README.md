@@ -26,6 +26,10 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 <a href="https://github.com/shamimrahman/Face-Mask-detector-using-Deep-Learning">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shamimrahman&theme=radical&repo=Face-Mask-detector-using-Deep-Learning" />
 </a>
+
+<a href="https://github.com/shamimrahman/Keras--Detect-Covid19-from-Xray-Images">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shamimrahman&theme=radical&repo=Keras--Detect-Covid19-from-Xray-Images" />
+</a>
 <br></br>
 <p align="center">
  <a href="https://kaggle.com/md. shamim rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="md. shamim rahman" height="30" width="30" /></a>
