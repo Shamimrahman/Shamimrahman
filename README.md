@@ -24,13 +24,17 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
 <br></br>
-![GitHub stats][#f03c15](https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true)  
 
 <br></br>
 
 <p align="center">
+ <a href="https://kaggle.com/md. shamim rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="md. shamim rahman" height="30" width="30" /></a>
+ 
+ <a href="https://kaggle.com/md. shamim rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="md. shamim rahman" height="30" width="30" /></a>
+
+
 <a href="https://linkedin.com/in/md.shamim rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md.shamim rahman" height="30" width="30" /></a>
-<a href="https://kaggle.com/md. shamim rahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="md. shamim rahman" height="30" width="30" /></a>
 <a href="https://fb.com/shamimrahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shamimrahman" height="30" width="30" /></a>
 </p>
 
