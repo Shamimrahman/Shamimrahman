@@ -17,11 +17,12 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
       
 <br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimrahman&layout=compact&hide=html&theme=radical" alt="shamimrahman" /></p>
- <br></br> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true&theme=radical" alt="shamimrahman" /></p>
 <br></br>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 <br></br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true&theme=radical" alt="shamimrahman" /></p>
+
 <a href="https://github.com/shamimrahman/Face-Mask-detector-using-Deep-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shamimrahman&theme=radical&repo=Face-Mask-detector-using-Deep-Learning" />
 </a>
