@@ -17,7 +17,7 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
                                                                                                           
  <br></br>
  
-![Shamim's github stats](https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true&theme=radical" alt="shamimrahman" /></p>
 
 <br></br>
 
@@ -26,7 +26,7 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 
 <br></br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true&theme=radical")  
 
 <br></br>
 
