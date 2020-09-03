@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shamimrahman&show_icons=true" alt="shamimrahman b" background='black' /></p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-shamim-rahman-801/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md.shamim rahman" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/mdshamimrahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="md. shamim rahman" height="30" width="30" /></a>
-<a href="https://www.facebook.com/shamim.rahman.73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shamimrahman" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/md-shamim-rahman-801/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md.shamim rahman" height="20" width="20" /></a>
+<a href="https://www.kaggle.com/mdshamimrahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="md. shamim rahman" height="20" width="20" /></a>
+<a href="https://www.facebook.com/shamim.rahman.73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shamimrahman" height="20" width="20" /></a>
 </p>
