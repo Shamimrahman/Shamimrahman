@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Shamim
 #### Passionate about-website development, mobile app development, data science, ML.
-![Passionate about-website development, mobile app development, data science, ML.](https://miro.medium.com/max/2880/1*ggxTiqwhAZ4HlnKnRhlpUA.png)
+![Passionate about-website development, mobile app development, data science, ML.](https://ares.decipherzone.com/blog-manager/uploads/banner_webp_da06d145-93f9-4df9-8c7e-1e2c332c3a4a.webp)
 
 
-Skills:  REACT / JS / HTML5 / CSS3/SAAS/BOOTSTRAP/DATA VISUALIZATION/DATA SCIENCE
+Skills:  REACT / JS / HTML5 / CSS3 / SASS/ BOOTSTRAP/ DATA VISUALIZATION  / DATA SCIENCE
 
 - 🔭 I’m currently working on Ahaar: Micro Nutritional Online Food Ordering Cloud Kitchen Model 
 - 🌱 I’m currently learning  React Js ,Data Science 
