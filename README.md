@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ahaar: Micro Nutritional Online Food Ordering Cloud Kitchen Model**
 
-- 🌱 I’m currently learning **React Js ,Data Science**
+- 🌱 I’m good at **PHP ,JAVA, React JS, Laravel, Spring Boot**
 
 - 💬 Ask me about **react**
 
